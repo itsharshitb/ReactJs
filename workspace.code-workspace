@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"path": "..\\..\\sem 5\\assignments\\DAA"
+		}
+	],
+    "settings": {
+        "files.associations": {
+            "iostream": "cpp",
+            "xiosbase": "cpp"
+        }
+    }
+}
